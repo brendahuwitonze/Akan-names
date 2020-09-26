@@ -1,0 +1,12 @@
+header {
+    height: 400px;
+    background-image: url(../images/ghana.jpg);
+    background-size: cover;
+    background-position: center;
+}
+.akan{
+    color:rgb(145, 255, 0);
+    margin-left: 400px;
+    padding-top: 100px;
+}
+
