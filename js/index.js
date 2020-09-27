@@ -67,6 +67,9 @@ function birth() {
             day="Sunday"
         }
        }
+       if(myBirthday==" "){
+           document.getElementById("result").innerHTML=alert("yo entered invalid information")
+       }
     document.getElementById("result").innerHTML = "YOU WERE BORN ON" +" "+day +"and your akan name is"+" "+akan;
 
 
