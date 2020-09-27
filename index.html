@@ -4,9 +4,14 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css"
+        integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css"
+        integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
     <link rel="stylesheet" href="css/index.css">
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
-<header>
+    <link href="https://fonts.googleapis.com/css2?family=Patrick+Hand&display=swap" rel="stylesheet">
+    <header>
     <div class="akan">
 <h1><em>AKAN NAMES</em></h1>
 <P>Akan names are names from Ghan that the parents give to there children accordin<br>to the day of the week they were born </P>
@@ -18,20 +23,20 @@
     <div class="container">
     <div class="row">
       <div class="col-6">
-     <p>As a user you will be required to enter <br> your Birth year,Month you were born,<br>the date of birth and also you gender.<br>So as you enter you birth information <br>you will be able to see you <em>Akan name</em><br> and you will also see the day you were <br>born.</p>
+     <p class="bre">As a user you will be required to enter your Birth year,Month you were born,the date of birth and also you gender.So as you enter you birth information you will be able to see you <em>Akan name</em> and you will also see the day you were born.</p>
       </div>
     <div class="col-6">
       <form action="">
-        <label for=""><strong>Date of Birth</strong></label> <br>
+        <label for=""><strong>Date of Birth</strong></label><br>
         <input class="form-control form-control-sm" type="text" placeholder="mm/dd/yy" id="myBirthDate">
-        <label for="gender">Gender</label><br>
-                    <select " id="gender">
+        <label for="gender" class="genders">Gender:</label>
+                    <select  id="gender" class=" form-control form-control-sm ">
                         <option>Female</option>
                         <option>Male</option>
                       </select><br>       
         <button type="button" class="btn btn-warning" onclick="birth()">click</button>
         </form>
-        <p id="result"></p>
+        <p id="result" class="bre"></p>
     </div>
     </div>
     </div>
