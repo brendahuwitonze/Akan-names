@@ -1,27 +1,26 @@
 # AKAN-NAMES
 
-#### 
-
-#### By **uwitonze Brendah**
-
 ## Description
 
 This is a website Application that allows user to enter their birth information and get to know there birth year and see the Akan names which are derived from Ghana ;This names are given by parents to their children according to the day they where born.
 
+### AUTHOR'S INFORMATION
+[brendahuwitonze](https://github.com/brendahuwitonze)
+
 ## Setup/Installation Requirements
 
 .installation of ubuntu
-. instaling git
+. installing git
 .signing up to github
-. start using it
-.and then proced
+. 
+.visual studio code
  ## Technologies Used
 .JAVASCRIPT(JS)
 .HYPERTEXT-MARKUP LANGUAGE(HTML)
 .CASCADING-STYLE-SHEET(CSS)
 ## Image
- ![brendah](h
- 
+ ![brendah](images/read.png)
+
   ## PROJECTS THAT I DESIGNED
 [sheila-shoe](https://brendahuwitonze.github.io/shoe-project/)
 
