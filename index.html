@@ -21,22 +21,16 @@
       </div>
     <div class="col-6">
       <form action="">
-        <label for="year">YEAR</label>
-        <input type="number" id="year"><br>
-        <label for="month">MONTH</label>
-        <input type="number" id="month"><br>
-        <label for="date">DATE</label>
-        <input type="number" id="date"><br>
-       <div class="form-group">
-        <label for="exampleFormControlSelect1">GENDER</label>
-        <select class="form-control" id="gender">
-         <option>choose gender</option>
-          <option>Male</option>
-          <option>Female</option>
-        </select>
-        <button type="button" onclick="names()">click</button>
+        <label for="Date"><strong>Date of Birth</strong></label> <br>
+        <input type="Date" id="myBirthDate"><br>
+        <label for="gender">Gender</label>
+                    <select " id="gender">
+                        <option>Female</option>
+                        <option>Male</option>
+                      </select>       
+        <button type="button" onclick="birth()">click</button>
         </form>
-        <p id="display"></p>
+        <p id="result"></p>
     </div>
     </div>
     </div>
