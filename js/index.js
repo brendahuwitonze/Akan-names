@@ -68,7 +68,7 @@ function birth() {
         }
     }
 
-    document.getElementById("result").innerHTML = "YOU WERE BORN ON" + " " + day + "and your akan name is" + " " + akan;
+    document.getElementById("result").innerHTML = "YOU WERE BORN ON" + " " + day + " and your akan name is" + " " + akan;
 
 
 
