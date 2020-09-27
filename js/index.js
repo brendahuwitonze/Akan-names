@@ -1,11 +1,11 @@
 
 function birth() {
-    var myBirthday = document.getElementById("myBirthDate").value;
+    var birthday = document.getElementById("birthDate").value;
     var myGender = document.getElementById("gender").value
-    var dateOfBirth = new Date(myBirthday);
+    var dateOfBirth = new Date(birthday);
     var dayOfTheWeek = dateOfBirth.getDay();
     var akan;
-    var day;
+    var day;  
     
      if (myGender=="Female"){
          if(dayOfTheWeek==1){
@@ -67,9 +67,7 @@ function birth() {
             day="Sunday"
         }
        }
-       if(myBirthday==" "){
-           document.getElementById("result").innerHTML=alert("yo entered invalid information")
-       }
+      
     document.getElementById("result").innerHTML = "YOU WERE BORN ON" +" "+day +"and your akan name is"+" "+akan;
 
 
