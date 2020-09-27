@@ -67,7 +67,7 @@ function birth() {
             day="Sunday"
         }
        }
-    document.getElementById("result").innerHTML = day;
+    document.getElementById("result").innerHTML = "YOU WERE BORN ON" +" "+day +"and your akan name is"+" "+akan;
 
 
      
