@@ -14,6 +14,13 @@ This is a website Application that allows user to enter their birth information 
 .signing up to github
 . 
 .visual studio code
+#### BDD
+* Enter Month-of-birth(mm)
+* Enter Date-of-month(dd)
+* Enter Year-of-birth
+* select Gender(female/male)
+* click on check
+* See your Akan name
  ## Technologies Used
 .JAVASCRIPT(JS)
 .HYPERTEXT-MARKUP LANGUAGE(HTML)
@@ -21,10 +28,9 @@ This is a website Application that allows user to enter their birth information 
 ## Image
  ![brendah](images/read.png)
 
-  ## PROJECTS THAT I DESIGNED
-[sheila-shoe](https://brendahuwitonze.github.io/shoe-project/)
+  ## here is the link 
+[Akan-name](https://brendahuwitonze.github.io/Akan-names/.)
 
-[portfolio](https://brendahuwitonze.github.io/portfolio-project/)
 
 ## License
 
