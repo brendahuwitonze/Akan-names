@@ -2,9 +2,10 @@
 
 ## Description
 
-This is a website Application that allows user to enter their birth information and get to know the day of birth and see the Akan names which are derived from Ghana ;This names are given by parents to their children according to the day they where born.
+This is a website Application that allows user to enter their birth information and get to know the day of birth and see the Akan names which are derived from Ghana ; This names are given by parents to their children according to the day they where born.
 
 ### AUTHOR'S INFORMATION
+
 [brendahuwitonze](https://github.com/brendahuwitonze)
 
 ## Setup/Installation Requirements
@@ -13,24 +14,31 @@ This is a website Application that allows user to enter their birth information 
 * installing git
 * signing up to github 
 * visual studio code
+
 ####  Behaviour Driven Development (BDD)
+
 * Enter Month-of-birth(mm)
 * Enter Date-of-month(dd)
 * Enter Year-of-birth
 * select Gender(female/male)
 * click on check
 * See your Akan name
+
  ## Technologies Used
+
 * JAVASCRIPT(JS)
 * HYPERTEXT-MARKUP LANGUAGE(HTML)
 * CASCADING-STYLE-SHEET(CSS)
 * MARKDOWN
+
 ## Image
- ![brendah](images/read.png)
+
+ 
+
+![brendah](images/read.png)
 
   ## here is the link 
 [Akan-name](https://brendahuwitonze.github.io/Akan-names/.)
-
 
 ## License
 

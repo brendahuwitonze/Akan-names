@@ -27,13 +27,14 @@ header {
 
 footer {
     text-align: center;
-    
 }
-#result{
+
+#result {
     color: darkgoldenrod;
 }
-h1{
-    color:yellow;
+
+h1 {
+    color: yellow;
     font-family: 'Fruktur', cursive;
     letter-spacing: 10px;
 }
