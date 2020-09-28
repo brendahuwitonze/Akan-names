@@ -9,11 +9,10 @@ This is a website Application that allows user to enter their birth information 
 
 ## Setup/Installation Requirements
 
-.installation of ubuntu
-. installing git
-.signing up to github
-. 
-.visual studio code
+* installation of ubuntu
+* installing git
+* signing up to github 
+* visual studio code
 ####  Behaviour Driven Development (BDD)
 * Enter Month-of-birth(mm)
 * Enter Date-of-month(dd)
@@ -22,9 +21,10 @@ This is a website Application that allows user to enter their birth information 
 * click on check
 * See your Akan name
  ## Technologies Used
-.JAVASCRIPT(JS)
-.HYPERTEXT-MARKUP LANGUAGE(HTML)
-.CASCADING-STYLE-SHEET(CSS)
+* JAVASCRIPT(JS)
+* HYPERTEXT-MARKUP LANGUAGE(HTML)
+* CASCADING-STYLE-SHEET(CSS)
+* MARKDOWN
 ## Image
  ![brendah](images/read.png)
 
