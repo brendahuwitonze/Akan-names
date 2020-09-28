@@ -12,7 +12,11 @@ function birth() {
         alert('Invalid birth information! choose a valid one');
         return false;
     }
-
+    if (myGender==="choose") {
+     alert('please select gender')
+        return false;
+    }
+    
     if (myGender == "Female") {
         if (dayOfTheWeek == 1) {
             akan = "Adwoa";
