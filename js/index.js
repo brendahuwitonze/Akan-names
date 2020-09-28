@@ -6,7 +6,7 @@ function birth() {
     var dayOfTheWeek = dateOfBirth.getDay();
     var akan;
     var day;
-
+    
     if (myGender == "Female") {
         if (dayOfTheWeek == 1) {
             akan = "Adwoa";
