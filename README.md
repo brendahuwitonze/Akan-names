@@ -14,7 +14,7 @@ This is a website Application that allows user to enter their birth information 
 .signing up to github
 . 
 .visual studio code
-#### BDD
+####  Behaviour Driven Development (BDD)
 * Enter Month-of-birth(mm)
 * Enter Date-of-month(dd)
 * Enter Year-of-birth
