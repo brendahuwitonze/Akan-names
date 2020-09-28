@@ -6,7 +6,13 @@ function birth() {
     var dayOfTheWeek = dateOfBirth.getDay();
     var akan;
     var day;
-    
+    var mm;
+    var dd;
+    if (birthday === "") {
+        alert('Invalid birth information! choose a valid one');
+        return false;
+    }
+
     if (myGender == "Female") {
         if (dayOfTheWeek == 1) {
             akan = "Adwoa";
