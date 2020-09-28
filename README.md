@@ -2,7 +2,7 @@
 
 ## Description
 
-This is a website Application that allows user to enter their birth information and get to know there birth year and see the Akan names which are derived from Ghana ;This names are given by parents to their children according to the day they where born.
+This is a website Application that allows user to enter their birth information and get to know the day of birth and see the Akan names which are derived from Ghana ;This names are given by parents to their children according to the day they where born.
 
 ### AUTHOR'S INFORMATION
 [brendahuwitonze](https://github.com/brendahuwitonze)
